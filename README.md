@@ -44,15 +44,7 @@
 </p>
 
 <p align="center">
-  <img src="screenshot_01.png" alt="OnionHEN home-screen entry"/>
-</p>
-
-<p align="center">
-  <img src="screenshot_02.png" alt="OnionHEN in-game monitor bar"/>
-</p>
-
-<p align="center">
-  <img src="screenshot_03.png" alt="OnionHEN Toolbox"/>
+  <img src="toolbox.png" alt="OnionHEN Toolbox"/>
 </p>
 
 <br>
