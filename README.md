@@ -1,17 +1,11 @@
 <div align="center">
-  <img src="slopkit/cat.jpg" alt="Slopkit" height="128" width="128"/><br/>
-  <h1>Slopkit up to 12.00</h1>
-
-  <p><strong>Only with Payload Manager</strong></p>
-
-  <br/>
-  <img src="readme.png" alt="AI bell curve"/><br/>
-  <br/>
-
+  <img src="logo.png" alt="OnionHEN" height="128" width="128"/><br/>
+  <h1>OnionHEN Backup ELF</h1>
+  <p>An all-in-one HEN and Toolbox for PlayStation 5</p>
+  
   <p>
-    <strong>Credit:</strong><br/>
-	 <a href="https://github.com/jordyidk">jordyidk</a> –
-	 <a href="https://github.com/itsPLK">itsPLK </a>
+    Credit: 
+    <a href="https://github.com/aydencharles">aydencharles</a> – 
+    <a href="https://github.com/kvnhrt">kvnhrt</a>
   </p>
-
 </div>
