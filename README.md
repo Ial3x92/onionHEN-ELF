@@ -1,1 +1,1 @@
-Credit: https://github.com/aydencharles
+Credit: https://github.com/aydencharles - https://github.com/kvnhrt
